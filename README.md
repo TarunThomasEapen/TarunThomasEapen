@@ -1,6 +1,7 @@
 <h1 align="center"> Hi, I'm Tarun Thomas Eapen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 🎓 MS in Computer Science from the University of Wisconsin-Milwaukee
+- 💻 Software Engineer with 5 years of experience at SAP Labs India
 - 💼 I’m looking for full time Machine Learning Engineer(MLE) and Software Engineer Engineer(SWE) positions in the US starting summer of 2024.
 
 ### Connect with me:
